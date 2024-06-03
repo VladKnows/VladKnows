@@ -19,12 +19,6 @@ Miririri is a Java RPG game I created about a boy who helps villagers fight mons
 - **ConsoleRunner**: A simple yet interesting game made for the Visual Studio terminal in which you play as a drone trying to avoid being hit. 🎲
 - **YouTube Transcript Translator**: A Python app using Kivy Framework and Translators API to translate YouTube video transcripts. 🎥
 
-## Additional Courses
-- **ViTAL - Software Development Laboratory by Vitesco Technologies**: Here I studied embedded C programming and gained knowledge in using sensors and actuators.
-- **AWS Cloud Engineering Masterclass by Levi9**: Learned about different tools provided by Amazon Web Services and used Terraform, GIT, and Docker.
-- **Software Engineering Specific to the Automotive Industry by Continental AG**: Used Python with OpenCV to detect the road from the perspective of a car and also learned about Ansible, SQL, Grafana, Docker, and Jenkins.
-- **Hands-On Advanced Analytics with Apache Spark by E.ON Software Development**: Worked with Anaconda and Pyspark to analyze big sets of data.
-
 ## Volunteering and Courses
 I'm also involved in BEST Iaşi, where I handled the Logistics & IT part of the "Prove it" competition.
 
