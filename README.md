@@ -30,7 +30,6 @@ I'm also involved in BEST Iaşi, where I handled the Logistics & IT part of the 
 
 ## Connect with Me
 Feel free to check out my projects and connect with me:
-- [GitHub](https://github.com/VladKnows) 🌟
 - [LinkedIn](https://www.linkedin.com/in/vlad-stoean-69364b208/) 💼
 
 Thanks for stopping by! 😊
