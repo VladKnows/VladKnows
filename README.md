@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🎉
 
-Hey there! I'm <span style="color:blue;">Vlad Stoean</span>, a 3rd-year Computer Engineering student at Gheorghe Asachi Technical University. I'm passionate about coding, creating, and constantly learning new things.
+Hey there! I'm Vlad Stoean, a 3rd-year Computer Engineering student at Gheorghe Asachi Technical University. I'm passionate about coding, creating, and constantly learning new things.
 
 ## About Me
 
