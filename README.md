@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🎉
 
-Hey there! I'm Vlad Stoean, a 3rd-year Computer Engineering student at Gheorghe Asachi Technical University. I'm passionate about coding, creating, and constantly learning new things.
+Hey there! I'm Vlad Stoean, a 4th-year Computer Engineering student at Gheorghe Asachi Technical University. I'm passionate about coding, creating, and constantly learning new things.
 
 ## About Me
 
@@ -15,7 +15,6 @@ One of my proudest moments was participating in the NXP Cup, where I advanced to
 Miririri is a Java RPG game I created about a boy who helps villagers fight monsters in a remote town. It was a fun project that allowed me to explore game development. This was not only my first interaction with design patterns but also my first opportunity to play around with OOP. 🎮
 
 ### Other Projects
-- **Food Reviews App**: A script for creating a database along with an app that lets you insert, edit and delete entries on every table. 🍔
 - **ConsoleRunner**: A simple yet interesting game made for the Visual Studio terminal in which you play as a drone trying to avoid being hit. 🎲
 - **YouTube Transcript Translator**: A Python app using Kivy Framework and Translators API to translate YouTube video transcripts. 🎥
 
