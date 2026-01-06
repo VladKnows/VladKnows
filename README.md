@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🎉
 
-Hey there! I'm Vlad Stoean, a 4th-year Computer Engineering student at Gheorghe Asachi Technical University. I'm passionate about coding, creating, and constantly learning new things.
+Hey there! I'm Vlad Stoean, a 1st-year master student in Artificial Intelligence at Gheorghe Asachi Technical University. I'm passionate about coding, creating, and constantly learning new things.
 
 ## About Me
 
